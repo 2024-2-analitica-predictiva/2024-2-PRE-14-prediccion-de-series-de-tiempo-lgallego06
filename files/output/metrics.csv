@@ -1,0 +1,5 @@
+Metrics,yt_pred_mlp_30,yt_pred_time_trend_3_fourier,yt_pred_stacked_mlp,yt_pred_d1d13_ar13,yt_pred_d1d12_mlp
+MSE Train,114357.7,76907.17,115875.97,66646.65,116706.35
+MSE Test,177747.08,122981.45,462726.38,138815.45,208249.12
+MAE Train,243.82,214.1,247.23,188.42,237.88
+MAE Test,292.57,278.01,502.36,267.05,302.35
